@@ -1,5 +1,3 @@
-# PRODIGY_ML_02
-
 # Mall Customers Clustering Project
 
 ## Project Overview
